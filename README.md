@@ -17,4 +17,5 @@ Python
 PySide6 for GUI
 
 Go (Golang) for solving logic
-![Uploading image.png…]()
+<img width="633" height="856" alt="image" src="https://github.com/user-attachments/assets/fade938e-109c-4800-85ee-3dde7e91a590" />
+
