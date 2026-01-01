@@ -17,3 +17,4 @@ Python
 PySide6 for GUI
 
 Go (Golang) for solving logic
+![Uploading image.png…]()
